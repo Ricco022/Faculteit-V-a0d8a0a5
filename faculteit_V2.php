@@ -10,5 +10,4 @@ while ($result <= $nm) {
 }
 echo "De faculteit van " . $nm . " is " . $result;
 echo $nm * $result;
-jyfytf
 ?>
